@@ -1,6 +1,6 @@
 ### Hello, I'm Alex. 👋🏼
 
-I'm currently in my second year of studying Computer Science at the University of Bath.
+I'm currently on placement for my Computer Science degree at the University of Bath.
 
 My personal website is [https://alex-dawkins.com/](https://alex-dawkins.com/), where I write about previous projects.
 
