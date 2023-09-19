@@ -1,7 +1,5 @@
 ### Hello, I'm Alex. 👋🏼
 
-I'm studying for my Computer Science degree at the University of Bath.
-
 My personal website is [https://alex-dawkins.com/](https://alex-dawkins.com/), where I write about previous projects.
 
 You can reach me at asd60@bath.ac.uk.
