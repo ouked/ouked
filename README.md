@@ -2,7 +2,6 @@
 
 My personal website is [https://alex-dawkins.com/](https://alex-dawkins.com/), where I write about previous projects.
 
-You can reach me at asd60@bath.ac.uk.
 
 <!--
 **ouked/ouked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
